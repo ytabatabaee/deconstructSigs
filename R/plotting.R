@@ -213,7 +213,7 @@ makePie <- function(sigs.output, sub = "", v3 = FALSE, add.color = NULL){
                             "Signature.25", "Signature.26", "Signature.27", "Signature.28", "Signature.29", "Signature.30",
                             "unknown")
 
-  all.colors           <- c("#E352B6", "#D2B870", "#D2EAD1", "#95748D", "#DAAE9B", "#7D40EF", "#9FE399", "#D2E1E9", "#9EE7C6", "#EAC93F", "#838256", "#E69192", "#5AA673", "#C8DB73", "#CE7FDF", "#D645E2", "#67E082", "#D5ED49", "#DA8964", "#E08D36", "#8E5DD2", "#58EFC0", "#89C5E8", "#A1E467", "#6FDCDE", "#7682D9", "#5190BE", "#DBA3DE", "#E986B1", "#E1ECAB", "#E2C4DA", "#CD4875", "#C74645", "#A8A9E3", "#E3D7BB", "#53E352", "#9DED36", "#7BA49D")
+  all.colors           <- c("#77D6E6", "#DAD2E5", "#5D8DE3", "#8AD760", "#6AA395", "#D3E072", "#57EB49", "#CF65E2", "#E6BD8A", "#5CE6D9", "#E1A3D0", "#7160DB", "#76BBE6", "#C2D4AE", "#8D36E4", "#B3B0E5", "#DEE53F", "#E5E89E", "#828C3F", "#5CE78E", "#E444A5", "#8857A8", "#E23BE5", "#9F715B", "#A9EADD", "#CB5D88", "#B693E8", "#DCC2B4", "#A5E6A5", "#EC9C9C", "#E582D5", "#DDE9E0", "#EB525E", "#E4BB44", "#98E137", "#5EE2AF", "#747390", "#E3823B")
 
   # giving up on color consistency
   if(v3 == TRUE){
